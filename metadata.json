@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuiz",
+  "description": "Generate three multiple choice questions from your study notes and get graded with explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
